@@ -1,0 +1,34 @@
+{
+    "name": "PasueInput",
+    "maps": [
+        {
+            "name": "Pasue",
+            "id": "6b85aaaf-3248-47f5-a16a-eb5e4005a4c5",
+            "actions": [
+                {
+                    "name": "pasue",
+                    "type": "Button",
+                    "id": "7eaafe53-643d-464f-8475-79a169d17dce",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "98ada282-ef02-42c8-9477-36975a5b6bc0",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "pasue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
